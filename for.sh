@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in as avb ad sda hahahahahah
+for i in as hahahahahah
 do
  
 useradd $i
